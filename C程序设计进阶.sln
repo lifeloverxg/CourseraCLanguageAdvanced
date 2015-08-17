@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C程序设计进阶", "C程序设计进阶\C程序设计进阶.vcxproj", "{23633D55-5121-4E58-8E0A-9D27533402AF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CourseraCLanguageAdvanced", "C程序设计进阶\C程序设计进阶.vcxproj", "{23633D55-5121-4E58-8E0A-9D27533402AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编程练习1", "编程练习1\编程练习1.vcxproj", "{33A605C2-7424-4FA6-8E1F-9F6ADA8AAA08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "递归编程练习", "递归编程练习\递归编程练习.vcxproj", "{CDDD46E8-290F-4D53-B84D-E0992E9F0659}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{33A605C2-7424-4FA6-8E1F-9F6ADA8AAA08}.Debug|Win32.Build.0 = Debug|Win32
 		{33A605C2-7424-4FA6-8E1F-9F6ADA8AAA08}.Release|Win32.ActiveCfg = Release|Win32
 		{33A605C2-7424-4FA6-8E1F-9F6ADA8AAA08}.Release|Win32.Build.0 = Release|Win32
+		{CDDD46E8-290F-4D53-B84D-E0992E9F0659}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDDD46E8-290F-4D53-B84D-E0992E9F0659}.Debug|Win32.Build.0 = Debug|Win32
+		{CDDD46E8-290F-4D53-B84D-E0992E9F0659}.Release|Win32.ActiveCfg = Release|Win32
+		{CDDD46E8-290F-4D53-B84D-E0992E9F0659}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
