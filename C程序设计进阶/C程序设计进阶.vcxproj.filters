@@ -21,5 +21,8 @@
     <ClCompile Include="放苹果.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="综合编程练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -66,6 +66,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="放苹果.cpp" />
+    <ClCompile Include="综合编程练习.cpp" />
     <ClCompile Include="逆波兰表达式.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
