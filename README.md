@@ -1,11 +1,11 @@
-# CourseraCLanguage
-C³ÌĞò½ø½×
+# CourseraCLanguageAdvanced
+Cç¨‹åºè¿›é˜¶
 
-Á¥ÊôÓÚ ³ÌĞòÉè¼ÆÓëËã·¨ ×¨Ïî¿Î³Ì ´óÑ§£º ±±¾©´óÑ§
+éš¶å±äº ç¨‹åºè®¾è®¡ä¸ç®—æ³• ä¸“é¡¹è¯¾ç¨‹ å¤§å­¦ï¼š åŒ—äº¬å¤§å­¦
 
-ËùÓĞ×÷Òµ²ÉÓÃC++Íê³É,Ê¹ÓÃµÄIDEÊÇVS2013
+æ‰€æœ‰ä½œä¸šé‡‡ç”¨C++å®Œæˆ,ä½¿ç”¨çš„IDEæ˜¯VS2013
 
-####²Î¿¼:
-[³ÌĞòÉè¼ÆÓëËã·¨](https://www.coursera.org/specializations/biancheng-suanfa)
-####ÎÒµÄÖ¤Êé:
+####å‚è€ƒ:
+[ç¨‹åºè®¾è®¡ä¸ç®—æ³•](https://www.coursera.org/specializations/biancheng-suanfa)
+####æˆ‘çš„è¯ä¹¦:
 [xiaochen](https://www.coursera.org/account/accomplishments/certificate/BV6HEX6CXVXW)
