@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针与二维数组练习
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "综合编程练习2", "综合编程练习2\综合编程练习2.vcxproj", "{E472135C-B022-4050-8A08-B7D3D1C7B09A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "期末考试", "期末考试\期末考试.vcxproj", "{48868107-2BF5-4D89-A0F1-96C87AF88C03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +41,10 @@ Global
 		{E472135C-B022-4050-8A08-B7D3D1C7B09A}.Debug|Win32.Build.0 = Debug|Win32
 		{E472135C-B022-4050-8A08-B7D3D1C7B09A}.Release|Win32.ActiveCfg = Release|Win32
 		{E472135C-B022-4050-8A08-B7D3D1C7B09A}.Release|Win32.Build.0 = Release|Win32
+		{48868107-2BF5-4D89-A0F1-96C87AF88C03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48868107-2BF5-4D89-A0F1-96C87AF88C03}.Debug|Win32.Build.0 = Debug|Win32
+		{48868107-2BF5-4D89-A0F1-96C87AF88C03}.Release|Win32.ActiveCfg = Release|Win32
+		{48868107-2BF5-4D89-A0F1-96C87AF88C03}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
